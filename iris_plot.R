@@ -1,1 +1,1 @@
-plot(iris$Sepal.Length, iris$)
+plot(iris$Sepal.Length, iris$Petal.Length)
